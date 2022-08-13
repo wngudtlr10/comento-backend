@@ -1,0 +1,13 @@
+
+server.port = 8083
+server.servlet.contextPath=/
+ 
+spring.mvc.view.prefix=/WEB-INF/views/
+spring.mvc.view.suffix=.java
+ 
+devtools.livereload.enabled=true
+ 
+spring.datasource.driver-class-name=org.mariadb.jdbc.Driver
+spring.datasource.url=jdbc:mariadb://127.0.0.1:3360/theater
+spring.datasource.username=root  
+spring.datasource.password=falled9845@

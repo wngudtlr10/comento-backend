@@ -1,0 +1,5 @@
+package com.devfun.settingweb_boot.service;
+
+public class StatisticService {
+
+}

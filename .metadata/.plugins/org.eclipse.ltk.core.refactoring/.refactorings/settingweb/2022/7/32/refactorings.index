@@ -1,0 +1,7 @@
+1659248008092	Delete element
+1659249232056	Move 'log4jdbc.log4j2.properties' to 'resources'
+1659264210241	Move 'mybatis-config.xml' to 'sql'
+1659269111671	Move 'mybatis-config.xml' to 'resources'
+1659269320233	Delete element
+1659269383800	Rename resource 'mybatis-config1.xml'
+1659269396573	Rename resource 'mybatis-config..xml'

@@ -1,0 +1,8 @@
+package com.devfun.settingweb_boot.service;
+ 
+import java.util.HashMap;
+ 
+public interface StatisticDto {
+    public HashMap<String,Object> yearloginNum (String year);
+    
+}
