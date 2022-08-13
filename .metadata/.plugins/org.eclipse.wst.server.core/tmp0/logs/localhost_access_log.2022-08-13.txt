@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [13/Aug/2022:11:01:07 +0900] "GET /settingweb_boot-2/sqlyearStatistic?year=21 HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [13/Aug/2022:11:01:10 +0900] "GET /settingweb_boot-2/sqlyearStatistic?year=22 HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [13/Aug/2022:11:01:15 +0900] "GET /settingweb_boot-2/sqlyearStatistic HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [13/Aug/2022:11:01:21 +0900] "GET /settingweb_boot-2/sqlyearStatistic?year=25 HTTP/1.1" 200 57
